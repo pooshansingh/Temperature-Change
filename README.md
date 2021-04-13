@@ -5,10 +5,9 @@ Data Analysis, Visualization and Prediction of global temperature change using F
 
 ## Introduction and Purpose
 
-Little has to be said when the global populus is experiencing climate change firsthand. But relations have to be established between organic data and other variables if we must understand it better. Except for strengthening the agruments in favor fray climate change, it also ensures we use the right tools to do so. 
+Little has to be said when the global populus is experiencing climate change firsthand. But relations have to be established between organic data and the visible change if we must understand it better. Except for strengthening the agruments in favor of working against climate change, it also ensures we use the right tools to do so. 
 
-In this project 
-
+On prelimnary analysis of the data it's realised that surges in temperature have been recurring mainly post 1978.   
 
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
@@ -59,7 +58,6 @@ Here is a random GIF as a placeholder.
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [Project Title](#project-title)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
@@ -136,7 +134,10 @@ Personally and by standard, you should use a [issue template](https://github.com
 You could also add contact details for people to get in touch with you regarding your project. -->
 
 # License
+
+[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
 [(Back to top)](#table-of-contents)
+
 
 <!-- Adding the license to README is a good practice so that people can easily refer to it.
 
@@ -144,7 +145,7 @@ Make sure you have added a LICENSE file in your project folder. **Shortcut:** Cl
 
 I personally add the name of the license and provide a link to it like below. -->
 
-[GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
+
 
 # Footer
 [(Back to top)](#table-of-contents)
