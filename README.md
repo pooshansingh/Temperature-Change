@@ -5,9 +5,9 @@ Data Analysis, Visualization and Prediction of global temperature change using F
 
 ## Introduction and Purpose
 
-Little has to be said when the global populus is experiencing climate change firsthand. But relations have to be established between organic data and the visible change if we must understand it better. Except for strengthening the agruments in favor of working against climate change, it also ensures we use the right tools to do so. 
+Little has to be said when the global populus is experiencing climate change firsthand. But relations have to be established between organic data and the visible change if we must understand it better. Except for strengthening the agruments in favor of working against climate change, it also ensures we use the right tools to do so. Using UN's Global Tempperature change data. Which we first clean and restructure it to our ease. The aim is to understand in depth, the patterns and relationships in temperature rise over time. Next logical thing to do is co-relate it with rising CO-2 emissions, loss of forest cover, Air Quality index as factors of cause. Linear and Polynomial Regression is used to train our data and get temperature rise prediction till year 2059. The forecast is done with 2 and 5 degrees of polynomials.   
 
-On prelimnary analysis of the data it's realised that surges in temperature are more regular post 1978. We also perform a case study on patterns in temperature change for Antarctica.  
+Prelimnary analysis of the data realised more regular surges in temperature post 1978. We also perform a case study on patterns in temperature change for Antarctica.   
 
 <!--The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
@@ -52,6 +52,16 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 
 # Demo-Preview
+
+The model is quite robust in terms of consistency and also efficient with formulated results. 
+
+A Case Study on Antarctica was performed prior to looking for insights over the larger dataset in an attempt to spot patterns of temperature change.
+
+![Image](https://drive.google.com/file/d/1i9956IxiKa6rsmQBwK3DXF-9vOz7DM3Y/view?usp=sharing) 
+![Image](https://drive.google.com/file/d/11_hUJlWAj6wJYHr4iPqbwwCT0_n1wtAS/view?usp=sharing)
+![Image](https://drive.google.com/file/d/1hbpDvkBEAY9OAJwRJ1rackt5UJD6uGw5/view?usp=sharing)
+![Image](https://drive.google.com/file/d/1yHrthLmZzMvkyY8Y_ZdjNfRPjriwtDMg/view?usp=sharing)
+![Image](https://drive.google.com/file/d/1yHrthLmZzMvkyY8Y_ZdjNfRPjriwtDMg/view?usp=sharing) 
 
 <!-- Add a demo for your project -->
 
