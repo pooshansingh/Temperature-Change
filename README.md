@@ -57,11 +57,11 @@ The model is quite robust in terms of consistency and also efficient with formul
 
 A Case Study on Antarctica was performed prior to looking for insights over the larger dataset in an attempt to spot patterns of temperature change.
 
-![Image](https://drive.google.com/file/d/1i9956IxiKa6rsmQBwK3DXF-9vOz7DM3Y/view?usp=sharing) 
-![Image](https://drive.google.com/file/d/11_hUJlWAj6wJYHr4iPqbwwCT0_n1wtAS/view?usp=sharing)
-![Image](https://drive.google.com/file/d/1hbpDvkBEAY9OAJwRJ1rackt5UJD6uGw5/view?usp=sharing)
-![Image](https://drive.google.com/file/d/1yHrthLmZzMvkyY8Y_ZdjNfRPjriwtDMg/view?usp=sharing)
-![Image](https://drive.google.com/file/d/1yHrthLmZzMvkyY8Y_ZdjNfRPjriwtDMg/view?usp=sharing) 
+![Image](https://drive.google.com/uc?export=view&id=1i9956IxiKa6rsmQBwK3DXF-9vOz7DM3Y) 
+![Image](https://drive.google.com/uc?export=view&id=11_hUJlWAj6wJYHr4iPqbwwCT0_n1wtAS)
+![Image](https://drive.google.com/uc?export=view&id=1hbpDvkBEAY9OAJwRJ1rackt5UJD6uGw5) 
+![Image](https://drive.google.com/uc?export=view&id=1yHrthLmZzMvkyY8Y_ZdjNfRPjriwtDMg) 
+
 
 <!-- Add a demo for your project -->
 
