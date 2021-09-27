@@ -84,7 +84,7 @@ Linear and Polynomial Regression models were trained with the dataset to realise
 # Installation
 [(Back to top)](#table-of-contents)
 
-The most streamlined way of working with such large datasets is to understand it in tranches as manipulation becomes that much easier.<!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
+<!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
 
 The first one should be how to install(how to generally use your project or set-up for editing in their machine).
 
@@ -94,13 +94,12 @@ Following this steps, **they should be able to run this in their device.**
 
 A method I use is after completing the README, I go through the instructions from scratch and check if it is working. -->
 
-<!-- Here is a sample instruction:
-
 To use this project, first clone the repo on your device using the command below:
 
 ```git init```
 
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
+```git clone https://github.com/pooshansingh/Temperature-Change.git```
+
 
 # Usage
 [(Back to top)](#table-of-contents)
