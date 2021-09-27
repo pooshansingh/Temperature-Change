@@ -36,10 +36,6 @@ I use [**Shields IO**](https://shields.io/) for making badges. It is a simple an
 
 # Table of contents
 
-<!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
-
-Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
-
 - [Demo-Preview](#demo-preview)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -57,24 +53,38 @@ The model is quite robust in terms of consistency and also efficient with formul
 
 A Case Study on Antarctica was performed prior to looking for insights over the larger dataset in an attempt to spot patterns of temperature change.
 
-![Image](https://drive.google.com/uc?export=view&id=1i9956IxiKa6rsmQBwK3DXF-9vOz7DM3Y) 
+![Image](https://drive.google.com/uc?export=view&id=1i9956IxiKa6rsmQBwK3DXF-9vOz7DM3Y)
+
+#### Yearly magnitude of temperature change in Antarctica
+
 ![Image](https://drive.google.com/uc?export=view&id=11_hUJlWAj6wJYHr4iPqbwwCT0_n1wtAS)
+
+#### Mean Monthly change (grouped and individual)
+
 ![Image](https://drive.google.com/uc?export=view&id=1hbpDvkBEAY9OAJwRJ1rackt5UJD6uGw5) 
+
+#### Standard Deviation in temperature change in Antarctica
+
 ![Image](https://drive.google.com/uc?export=view&id=1yHrthLmZzMvkyY8Y_ZdjNfRPjriwtDMg) 
+
+#### Plotted annual temperature rise 
 
 
 <!-- Add a demo for your project -->
+The learnings we get from studying prelimnary results are utilised to devise more detailed plans for further data wrangling, analysis, and visualisations. 
 
-<!-- After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
+We use these results to try and first find the global average temperature change so we can visually second the increasing trends earlier noticed.
 
-Here is a random GIF as a placeholder.
+![Image](https://drive.google.com/uc?export=view&id=1vKKuVxfPr94vRwW8sSvKD2JGAtb_WUhh) 
 
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
+Linear and Polynomial Regression models were trained with the dataset to realise a prediction of temperature change in forseeable future. Final inference indicated the global average above 4°C, unsurprisingly higher than the desired 1.5°C mark.
+
+![Image](https://drive.google.com/uc?export=view&id=1cmEJzip366x_Qp-DLvr_zfas1n1_YbMB) 
 
 # Installation
 [(Back to top)](#table-of-contents)
 
-<!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
+The most streamlined way of working with such large datasets is to understand it in tranches as manipulation becomes that much easier.<!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
 
 The first one should be how to install(how to generally use your project or set-up for editing in their machine).
 
