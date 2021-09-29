@@ -100,6 +100,10 @@ To use this project, first clone the repo on your device using the command below
 
 ```git clone https://github.com/pooshansingh/Temperature-Change.git```
 
+Or open the .py extension file in your editor and make sure it has needed modules to execute the code. Remember that once we delete 
+
+![Image](https://drive.google.com/uc?export=view&id=1G5iKHXXdM8fqGSAPg8CDjxtnkt6D2sYK) 
+
 
 # Usage
 [(Back to top)](#table-of-contents)
