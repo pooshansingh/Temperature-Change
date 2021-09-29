@@ -100,15 +100,12 @@ To use this project, first clone the repo on your device using the command below
 
 ```git clone https://github.com/pooshansingh/Temperature-Change.git```
 
-Or open the .py extension file in your editor and make sure it has needed modules to execute the code. Remember that once we delete 
+Or open the .py extension file in your editor and make sure it has needed modules to execute the code. Remember that once we delete one Austria Dataframe as it consists of repeated NaN values from its preceeding set, it has to be hashed out in order to not delete the actual row.
 
 ![Image](https://drive.google.com/uc?export=view&id=1G5iKHXXdM8fqGSAPg8CDjxtnkt6D2sYK) 
 
+Model is now ready to run. 
 
-# Usage
-[(Back to top)](#table-of-contents)
-
-<!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
 
 # Development
 [(Back to top)](#table-of-contents)
