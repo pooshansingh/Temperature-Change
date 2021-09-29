@@ -69,7 +69,6 @@ A Case Study on Antarctica was performed prior to looking for insights over the 
 
 #### Plotted annual temperature rise 
 
-
 <!-- Add a demo for your project -->
 The learnings we get from studying prelimnary results are utilised to devise more detailed plans for further data wrangling, analysis, and visualisations. 
 
@@ -106,17 +105,43 @@ Or open the .py extension file in your editor and make sure it has needed module
 
 Model is now ready to run. 
 
-
 # Development
 [(Back to top)](#table-of-contents)
 
-<!-- This is the place where you give instructions to developers on how to modify the code.
+Data can be grouped to the field as per your modifcation choice. Our intention to have them by country is to gather region specific results in any timeline. 
 
+A Dataframe 'temperature_change' is created where we locate the countries and uniquely identify within them, monthly temperature change values over the years. Same is done for our Case Study on Antarctica. An Seaborn lineplot vivdly describes the upper shift of magnitude in the continent's temperature. Standard Deviation plot for the year 2010 also shows a comparative loss of winter owing to the longer durations now needed for the ice to form. 
+
+![Image](https://drive.google.com/uc?export=view&id=1BaOazl1G9appzC9srv9Xwozx2qt3IWPb) 
+
+### Global temperature change, Data Wrangling and Analysis
+
+A similar pattern is obsevered over the global dataset, all each discreet regions of their own. Providing a streamlined understanding of patterns in climate change through grouped countries. Further wrangling is performed on the larger dataset using our insights from the case study. 
+
+![Image](https://drive.google.com/uc?export=view&id=1-cRyRkI0MxLJsUMfDLph4jsCO3OY7T69) 
+
+Global average is found using df 'temperature_change', elements of whose are grouped in years. The mean hence found is saved in dataframe 'average_temp', similar logic is used to find the mean by country.
+![Image](https://drive.google.com/uc?export=view&id=1fVIjvHn-h5SERN9E6Muf3kYewyCHKcoN)
+
+### Fitting model into training data and generating predictions
+
+Simple Linear Progression is used to fit and train our model. 
+![Image](https://drive.google.com/uc?export=view&id=1wX0zzxlrasXKGrojgktdpJyApHFZsrwD)  
+
+Prediction points are randomly generated and sorted by values as strings in order to get the test data in primary dataframe, giving us the final results. The RMSE score reads to be 0.9721. 
+
+![Image](https://drive.google.com/uc?export=view&id=1gDCuIyxoWjGDWTFZITQXI_UWpiuzKTL9)
+Predicted and actual value comparison density plot. We use the same logic to test the trained data under Polynomial Regression. The obtained values are visualised in the grouped graphs showing both the compiled temperature changed data, linear as well as degreed regressions. 
+
+
+<!-- This is the place where you give instructions to developers on how to modify the code.
 You could give **instructions in depth** of **how the code works** and how everything is put together.
 
 You could also give specific instructions to how they can setup their development environment.
 
 Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration. -->
+
+
 
 # Contribute
 [(Back to top)](#table-of-contents)
@@ -125,17 +150,10 @@ Ideally, you should keep the README simple. If you need to add more complex expl
 
 Also this shows how you can add subsections within a section. -->
 
-### Sponsor
-[(Back to top)](#table-of-contents)
-
-<!-- Your project is gaining traction and it is being used by thousands of people(***with this README there will be even more***). Now it would be a good time to look for people or organisations to sponsor your project. This could be because you are not generating any revenue from your project and you require money for keeping the project alive.
-
-You could add how people can sponsor your project in this section. Add your patreon or GitHub sponsor link here for easy access.
-
-A good idea is to also display the sponsors with their organisation logos or badges to show them your love!(*Someday I will get a sponsor and I can show my love*) -->
-
 ### Adding new features or fixing bugs
-[(Back to top)](#table-of-contents)
+
+Pull request or issue submission widgets available on the top.
+
 
 <!-- This is to give people an idea how they can raise issues or feature requests in your projects. 
 
@@ -164,9 +182,6 @@ I personally add the name of the license and provide a link to it like below. --
 <!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.
 
 Let's make it an image because by now you have realised that multimedia in images == cool(*please notice the subtle programming joke). -->
-
-Leave a star in GitHub, give a clap in Medium and share this guide if you found this helpful.
-
 <!-- Add the footer here -->
 
 <!-- ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png) -->
